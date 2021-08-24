@@ -1,5 +1,22 @@
-
 <channels>
+
+<channel>
+
+<name>[B][COLOR aquamarine]Loki, A Série[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/ukR0MkCQE6IylzBPd61txJi1L3E.jpg</thumbnail>
+
+<externallink>https://github.com/viko02/lokhi/raw/main/lokhi</externallink>
+
+<fanart>https://www.themoviedb.org/t/p/original/71kjcn5PYnNz3bMOZnGyuR4RH1V.jpg</fanart>
+
+<info>[COLOR aquamarine]A hora de Loki chegou.[/COLOR]
+[B][COLOR aquamarine]Sinopse:[/COLOR][/B]
+[COLOR aquamarine]Começando imediatamente depois que Loki rouba o Tesseract (de novo), ele se encontra diante da Autoridade de Variação Temporal, uma organização burocrática que existe fora do tempo e espaço. Forçado a responder por seus crimes contra a linha do tempo, ele recebe uma escolha: Ser deletado da realidade ou ajudar a capturar uma ameaça ainda maior.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
@@ -64,25 +81,5 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[B][COLOR aquamarine]A Série Loki[/COLOR][/B]</name>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/ukR0MkCQE6IylzBPd61txJi1L3E.jpg</thumbnail>
-
-<externallink>https://github.com/viko02/lokhi/raw/main/lokhi</externallink>
-
-<fanart>https://www.themoviedb.org/t/p/original/71kjcn5PYnNz3bMOZnGyuR4RH1V.jpg</fanart>
-
-<info>[COLOR aquamarine]A hora de Loki chegou.[/COLOR]
-[B][COLOR aquamarine]Sinopse:[/COLOR][/B]
-[COLOR aquamarine]Começando imediatamente depois que Loki rouba o Tesseract (de novo), ele se encontra diante da Autoridade de Variação Temporal, uma organização burocrática que existe fora do tempo e espaço. Forçado a responder por seus crimes contra a linha do tempo, ele recebe uma escolha: Ser deletado da realidade ou ajudar a capturar uma ameaça ainda maior.[/COLOR]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
 
 </channels>
