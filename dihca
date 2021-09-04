@@ -20,6 +20,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
+<name>[B][COLOR aquamarine]La Casa De Papel[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/800/204/original/CdP_icon.png?1596002460</thumbnail>
+
+<externallink>https://github.com/viko02/casadephaphel/raw/main/casadephaphel</externallink>
+
+<fanart>https://uploaddeimagens.com.br/images/002/799/067/full/LA_CASA_DE_PAPEL_fanart.jpg?1595963950</fanart>
+
+<info>[COLOR aquamarine]La Casa de Papel é a série de língua espanhola mais popular da Netflix. No Brasil, a produção se tornou um verdadeiro fenômeno cultural, inspirando fantasias, músicas e muito mais. Um grupo de nove ladrões, liderados por um Professor, prepara o roubo do século na Casa da Moeda da Espanha, com o objetivo de fabricar o próprio dinheiro em quantidades incalculáveis e nunca antes vista.[/COLOR]
+</info>
+
+</channel>
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
 <name>[B][COLOR aquamarine]Cinema 2000[/COLOR][/B]</name>
 
 <thumbnail>https://uploaddeimagens.com.br/images/003/387/186/original/1629306660845.jpg?1629306705</thumbnail>
@@ -36,6 +54,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
+<name>[B][COLOR aquamarine]Cinema 2003[/COLOR][/B]</name>
+
+<thumbnail>https://i.imgur.com/hExraL1.jpg</thumbnail>
+
+<externallink>https://github.com/viko02/cinemah2003/raw/main/cinemah2003</externallink>
+
+<fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
+
+<info>[COLOR aquamarine]Uma seleção de filmes que a emissora plin plin exibia no ano de 2003.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
 <name>[B][COLOR aquamarine]Cinema 2015[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/KfiI46f.jpg</thumbnail>
@@ -44,7 +78,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
 
-<info>[COLOR aquamarine]Uma seleção de filmes que a emissora do Silvio exibia nos anos 2015.[/COLOR]</info>
+<info>[COLOR aquamarine]Uma seleção de filmes que a emissora do Silvio exibia no ano de 2015.[/COLOR]</info>
 
 </channel>
 
