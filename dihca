@@ -1,5 +1,42 @@
 <channels>
 
+
+<channel>
+
+<name>[B][COLOR aquamarine]>>> Memoráveis[/COLOR][/B]</name>
+
+<thumbnail>https://i.imgur.com/BG8VajQ.jpg</thumbnail>
+
+<externallink>https://github.com/viko02/memorhraveis/raw/main/memorhraveis</externallink>
+
+<fanart>https://i.imgur.com/WL19rp2.jpg</fanart>
+
+<info>[COLOR aquamarine]O objetivo aqui não é só listar filmes clássicos, e sim, filmes que marcaram uma geração. Aqueles filmes inesquecíveis, que merecem serem conservados na memória. Dignos de serem lembrados. Que valem a pena ver de novo. São filmes que foram marcantes em sua época de lançamento e, atualmente, continuam conquistando admiradores pelo mundo inteiro. Verdadeiras referências entre os vários gêneros (tem para todos os gostos), estes filmes têm sido apontados entre os maiores da história do cinema.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]Oscar[/COLOR][/B]</name>
+
+<externallink>https://github.com/viko02/hoscar/raw/main/hoscar</externallink>
+
+<thumbnail>https://i.imgur.com/SPYptsZ.jpg</thumbnail>
+
+<fanart>https://i.imgur.com/WL19rp2.jpeg</fanart>
+
+<info>[B][COLOR aquamarine]Todos os 92 Filmes Até Hoje Escolhidos Como Os Melhores do Ano.[/COLOR][/B]
+[COLOR aquamarine]O Oscar de melhor filme (em inglês Academy Award for Best Picture), é a principal categoria do Oscar oferecido pela Academia de Artes e Ciências Cinematográficas.
+Os filmes premiados normalmente são lançados no ano anterior à premiação.[/COLOR]
+
+</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channel>
 
 <name>[B][COLOR aquamarine]Cinema 2000[/COLOR][/B]</name>
